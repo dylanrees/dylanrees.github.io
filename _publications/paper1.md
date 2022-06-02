@@ -12,6 +12,4 @@ Press related to this publication:
 * [Metal-Breathing Bacteria Syntheize High-Tech Material](https://www.scientificamerican.com/article/metal-breathing-bacteria-synthesize-high-tech-material/), *Scientific American*, 2020
 * [Metal-Breathing Bacteria Could Transform Electronics, Biosensors, and More](https://news.rpi.edu/content/2020/07/28/metal-breathing-bacteria-could-transform-electronics-biosensors-and-more), *Rensselaer News*, 2020
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
