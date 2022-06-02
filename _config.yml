@@ -85,9 +85,9 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Troy, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=7SdXXokAAAAJ"
-  email            :
+  email            : dylanrees@protonmail.ch
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
