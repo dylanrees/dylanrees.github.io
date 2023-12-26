@@ -3,8 +3,7 @@ permalink: /coco/
 title: "ECSE 2610 - Computer Components and Operations
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /coco/
 ---
 
 ## CoCO
