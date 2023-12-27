@@ -3,8 +3,7 @@ permalink: /fields/
 title: "ECSE 2100 - Fields and Waves"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /fields
 ---
 
 ## Fields and Waves
