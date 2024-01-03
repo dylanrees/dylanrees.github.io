@@ -6,4 +6,4 @@ author_profile: true
 
 ## CoCO
 
-* [Course Calendar](https://docs.google.com/spreadsheets/d/1F46ZP9f6TEWIMJiIQXwWvKVNbh1m-uybl992li2SkFM/edit?pli=1#gid=0)
+* [Course Calendar](https://docs.google.com/spreadsheets/d/1NU7Hp_3yt8mVkwwEM6KoL2xTypCkNjHAyokPRfcGT0U/edit?usp=sharing)
