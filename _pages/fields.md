@@ -6,6 +6,8 @@ redirect_from:
   - /fields
 ---
 
-## Fields and Waves
+## Fields and Waves Spring 2024
 
-* [Course Calendar](https://docs.google.com/spreadsheets/d/1F46ZP9f6TEWIMJiIQXwWvKVNbh1m-uybl992li2SkFM/edit?pli=1#gid=0)
+A course about applied electromagnetism.
+
+* [Course Calendar](https://docs.google.com/spreadsheets/d/18FK5ADgI3jY0-l6Gaq4C-aBn5ZRL7ux0PgevTzNlnSs/edit?usp=sharing)
