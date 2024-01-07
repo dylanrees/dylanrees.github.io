@@ -12,11 +12,11 @@ author_profile: true
 
 | Skill Number  | Description|
 | ------------- | ------------- |
-| 1  | Content Cell  |
-| 2  | Content Cell  |
-| 3  | Content Cell  |
-| 4  | Content Cell  |
-| 5  | Content Cell  |
+| 1  | Convert between decimal and binary number systems.  |
+| 2  | Represent an arbitrary number in 2's compliment binary.  |
+| 3  | Perform binary addition and/or subtraction, identifying any overflow.  |
+| 4  | Produce a Boolean logic expression from a gate-level logic diagram or vice versa.  |
+| 5  | Perform the negation of a Boolean logic expression.  |
 | 6  | Content Cell  |
 | 7  | Content Cell  |
 | 8  | Content Cell  |
