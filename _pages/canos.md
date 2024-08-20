@@ -6,7 +6,7 @@ redirect_from:
   - /canos
 ---
 
-## CANOS Spring 2024
+## CANOS Fall 2024
 
 A course on applied electromagnetism, taught using standards-based assessments.
 
