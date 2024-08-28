@@ -11,7 +11,7 @@ author_profile: true
 | Name  | Role | Lab Section | Office Hours | Email | Discord Name |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. James Dylan Rees | Instructor  | All (as needed)  | By Appointment [(book here)](https://calendly.com/reesj3/coco-office-hours) | reesj3@rpi.edu  | j.dylanrees |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Alexander Borca‐Tasciuc  | TA  | *(tba)*  | *(tba)* | borcaa@rpi.edu  | *(tba)* |
 
 * [Book Office Hours with Prof. Rees](https://calendly.com/reesj3/coco-office-hours)
 * [Course Calendar](https://docs.google.com/spreadsheets/d/1ZMBrMZQafYQkDq-hXXXMoT3DYaLaOsYWDn9MzZFm504/edit?usp=sharing)
