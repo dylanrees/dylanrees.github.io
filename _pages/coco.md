@@ -7,6 +7,7 @@ author_profile: true
 ## CoCO Fall 2024
 
 **Teaching Staff**
+
 | Name  | Role | Lab Section | Office Hours | Email | Discord Name |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. James Dylan Rees | Instructor  | All (as needed)  | By Appointment [(book here)](https://calendly.com/reesj3/coco-office-hours) | Content Cell  | Content Cell  |
