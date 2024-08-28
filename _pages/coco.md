@@ -9,7 +9,7 @@ author_profile: true
 **Teaching Staff**
 | Name  | Role | Lab Section | Office Hours | Email | Discord Name |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Dr. James Dylan Rees | Instructor  | All (as needed)  | By Appointment [(book here)](https://calendly.com/reesj3/coco-office-hours) | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 * [Book Office Hours with Prof. Rees](https://calendly.com/reesj3/coco-office-hours)
