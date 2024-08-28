@@ -18,5 +18,5 @@ author_profile: true
 | Julian Tiana | UGSA  | *(tba)*  | *(tba)* | tianaj@rpi.edu | *(tba)* |
 
 * [Course Calendar](https://docs.google.com/spreadsheets/d/1ZMBrMZQafYQkDq-hXXXMoT3DYaLaOsYWDn9MzZFm504/edit?usp=sharing)
-* [Course Shared Folder](https://u.pcloud.link/publink/show?code=kZQvoE0Z4sL4bdn2msmN1c9zEUJwWRwytJCk) - contains all lecture slides, pdfs of recorded lectures, homework and exam solutions, and other necessary files.
+* [Course Shared Folder](https://u.pcloud.link/publink/show?code=kZvtBO0ZLH4q6HXwWdktRzuunSGw6XPYlf57) - contains all lecture slides, pdfs of recorded lectures, homework and exam solutions, and other necessary files.
 * **Discord** - where course communication happens in between classes.  You should should be added to the WebEx space at the beginning of the semester.  If you can't access the space, email Prof. Rees.
