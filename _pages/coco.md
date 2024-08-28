@@ -6,6 +6,11 @@ author_profile: true
 
 ## CoCO Fall 2024
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 * [Book Office Hours with Prof. Rees](https://calendly.com/reesj3/coco-office-hours)
 * [Course Calendar](https://docs.google.com/spreadsheets/d/1ZMBrMZQafYQkDq-hXXXMoT3DYaLaOsYWDn9MzZFm504/edit?usp=sharing)
 * [Course Shared Folder](https://u.pcloud.link/publink/show?code=kZQvoE0Z4sL4bdn2msmN1c9zEUJwWRwytJCk) - contains all lecture slides, pdfs of recorded lectures, homework and exam solutions, and other necessary files.
