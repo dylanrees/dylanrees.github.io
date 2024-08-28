@@ -7,10 +7,10 @@ author_profile: true
 ## CoCO Fall 2024
 
 **Teaching Staff**
-| First Header  | Second Header | Second Header | Second Header | Second Header |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Name  | Role | Lab Section | Office Hours | Email | Discord Name |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 * [Book Office Hours with Prof. Rees](https://calendly.com/reesj3/coco-office-hours)
 * [Course Calendar](https://docs.google.com/spreadsheets/d/1ZMBrMZQafYQkDq-hXXXMoT3DYaLaOsYWDn9MzZFm504/edit?usp=sharing)
