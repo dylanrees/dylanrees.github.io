@@ -17,6 +17,8 @@ author_profile: true
 | Diyanko Bhowmik | TA  | *(tba)*  | *(tba)* | bhowmd@rpi.edu  | *(tba)* |
 | Julian Tiana | UGSA  | *(tba)*  | *(tba)* | tianaj@rpi.edu | *(tba)* |
 
+During the office hour times specified above, the instructor and TAs will check and respond to messages in the Discord space.  They will also be available meetings in-person or on Discord as indicated above.
+
 * [Course Calendar](https://docs.google.com/spreadsheets/d/1ZMBrMZQafYQkDq-hXXXMoT3DYaLaOsYWDn9MzZFm504/edit?usp=sharing)
 * [Course Shared Folder](https://u.pcloud.link/publink/show?code=kZvtBO0ZLH4q6HXwWdktRzuunSGw6XPYlf57) - contains all lecture slides, pdfs of recorded lectures, homework and exam solutions, and other necessary files.
 * **Discord** - where course communication happens in between classes.  You should should be added to the WebEx space at the beginning of the semester.  If you can't access the space, email Prof. Rees.
