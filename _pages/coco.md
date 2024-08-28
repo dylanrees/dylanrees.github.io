@@ -14,6 +14,7 @@ author_profile: true
 | Alexander Borca‐Tasciuc  | TA  | *(tba)*  | *(tba)* | borcaa@rpi.edu  | *(tba)* |
 | Parisa Shiravani | TA  | *(tba)*  | *(tba)* | shirap@rpi.edu  | *(tba)* |
 | Heshan Fernando | TA  | *(tba)*  | *(tba)* | fernah@rpi.edu  | *(tba)* |
+| Diyanko Bhowmik | TA  | *(tba)*  | *(tba)* | bhowmd@rpi.edu  | *(tba)* |
 
 * [Course Calendar](https://docs.google.com/spreadsheets/d/1ZMBrMZQafYQkDq-hXXXMoT3DYaLaOsYWDn9MzZFm504/edit?usp=sharing)
 * [Course Shared Folder](https://u.pcloud.link/publink/show?code=kZQvoE0Z4sL4bdn2msmN1c9zEUJwWRwytJCk) - contains all lecture slides, pdfs of recorded lectures, homework and exam solutions, and other necessary files.
