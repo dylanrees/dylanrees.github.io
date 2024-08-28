@@ -6,6 +6,7 @@ author_profile: true
 
 ## CoCO Fall 2024
 
+**Teaching Staff**
 | First Header  | Second Header | Second Header | Second Header | Second Header |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
