@@ -21,6 +21,7 @@ author_profile: true
 | Diyanko Bhowmik | TA  | *(tba)*  | *(tba)* | bhowmd@rpi.edu  | *(tba)* |
 | Julian Tiana | UGSA  | *(tba)*  | *(tba)* | tianaj@rpi.edu | *(tba)* |
 | Annabel Day | UGSA  | *(tba)*  | *(tba)* | daya5@rpi.edu | *(tba)* |
+| Dani Shiloh | UGSA  | *(tba)*  | *(tba)* | daya5@rpi.edu | *(tba)* |
 
 During the office hour times specified above, the instructor and TAs will check and respond to messages in the Discord space.  They will also be available meetings in-person or on Discord as indicated above.
 
