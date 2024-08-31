@@ -15,9 +15,9 @@ author_profile: true
 | Name  | Role | Lab Section | Office Hours | Email | Discord Name |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. James Dylan Rees | Instructor  | All (as needed)  | By Appointment [(book here)](https://calendly.com/reesj3/coco-office-hours) | reesj3@rpi.edu  | j.dylanrees |
-| Alexander Borca‐Tasciuc  | TA  | *(tba)*  | *(tba)* | borcaa@rpi.edu  | *(tba)* |
+| Alexander Borca‐Tasciuc  | TA  | 02 (12-1:50pm)  | *(tba)* | borcaa@rpi.edu  | *(tba)* |
 | Parisa Shiravani | TA  | *(tba)*  | *(tba)* | shirap@rpi.edu  | *(tba)* |
-| Heshan Fernando | TA  | *(tba)*  | *(tba)* | fernah@rpi.edu  | *(tba)* |
+| Heshan Fernando | TA  | 01 (10-11:50am)  | *(tba)* | fernah@rpi.edu  | *(tba)* |
 | Diyanko Bhowmik | TA  | *(tba)*  | *(tba)* | bhowmd@rpi.edu  | *(tba)* |
 | Julian Tiana | UGSA  | *(tba)*  | *(tba)* | tianaj@rpi.edu | *(tba)* |
 | Annabel Day | UGSA  | *(tba)*  | *(tba)* | daya5@rpi.edu | *(tba)* |
