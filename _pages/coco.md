@@ -18,7 +18,7 @@ author_profile: true
 | Alexander Borca‐Tasciuc  | TA  | 02 (12-1:50pm)  | *(tba)* | borcaa@rpi.edu  | *(tba)* |
 | Parisa Shiravani | TA  | *(tba)*  | *(tba)* | shirap@rpi.edu  | *(tba)* |
 | Heshan Fernando | TA  | 01 (10-11:50am)  | *(tba)* | fernah@rpi.edu  | *(tba)* |
-| Diyanko Bhowmik | TA  | *(tba)*  | *(tba)* | bhowmd@rpi.edu  | *(tba)* |
+| Diyanko Bhowmik | TA  | Both  | *(tba)* | bhowmd@rpi.edu  | *(tba)* |
 | Julian Tiana | UGSA  | *(tba)*  | *(tba)* | tianaj@rpi.edu | *(tba)* |
 | Annabel Day | UGSA  | *(tba)*  | *(tba)* | daya5@rpi.edu | *(tba)* |
 | Dani Shiloh | UGSA  | *(tba)*  | *(tba)* | shilod@rpi.edu | *(tba)* |
