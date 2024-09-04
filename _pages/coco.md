@@ -21,7 +21,7 @@ author_profile: true
 | Diyanko Bhowmik | TA  | Both  | *(tba)* | bhowmd@rpi.edu  | diyanko |
 | Julian Tiana | UGSA  | 01 (10-11:50am)  | Wednesday 2-3pm, JEC 6309 | tianaj@rpi.edu | succulent2000 |
 | Annabel Day | UGSA  | 02 (12-1:50pm)   | Monday 5-6pm, JEC 6309 | daya5@rpi.edu | catalyst_26 |
-| Dani Shiloh | UGSA  | *(tba)*  | *(tba)* | shilod@rpi.edu | neothesomething |
+| Dani Shiloh | UGSA  | Both | Friday 4-6pm, Flip-Flop (JEC 6307) | shilod@rpi.edu | neothesomething |
 
 During the office hour times specified above, the instructor and TAs will check and respond to messages in the Discord space.  They will also be available meetings in-person or on Discord as indicated above.
 
