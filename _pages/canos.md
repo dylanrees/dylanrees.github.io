@@ -16,3 +16,11 @@ A course on applied electromagnetism, taught using standards-based assessments.
 * [Course Shared Folder](https://u.pcloud.link/publink/show?code=kZQvoE0Z4sL4bdn2msmN1c9zEUJwWRwytJCk) - contains all lecture slides, pdfs of recorded lectures, homework and exam solutions, and other necessary files.
 * **WebEx** - where course communication happens in between classes.  You should should be added to the WebEx space at the beginning of the semester.  If you can't access the space, email Prof. Rees.
 * [MARS Mips Simulator](https://courses.missouristate.edu/kenvollmar/mars/download.htm) - an environment for testing 32-bit MIPS assembly code. 
+
+**Teaching Staff**
+
+| Name  | Role | Office Hours | Email |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. James Dylan Rees | Instructor  | By appointment [(book here)](https://calendly.com/reesj3/canos-office-hours) | reesj3@rpi.edu  |
+| James Onyejizu | TA | Wednesdays 2-4pm, Flip-Flop Lounge (JEC 6037) | onyejj@rpi.edu | 
+
