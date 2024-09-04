@@ -19,7 +19,7 @@ author_profile: true
 | Parisa Shiravani | TA  | *(tba)*  | *(tba)* | shirap@rpi.edu  | *(tba)* |
 | Heshan Fernando | TA  | 01 (10-11:50am)  | By appointment | fernah@rpi.edu  | Heshan |
 | Diyanko Bhowmik | TA  | Both  | *(tba)* | bhowmd@rpi.edu  | diyanko |
-| Julian Tiana | UGSA  | *(tba)*  | *(tba)* | tianaj@rpi.edu | succulent2000 |
+| Julian Tiana | UGSA  | 01 (10-11:50am)  | Wednesday 2-3pm, JEC 6309 | tianaj@rpi.edu | succulent2000 |
 | Annabel Day | UGSA  | 02 (12-1:50pm)   | Monday 5-6pm, JEC 6309 | daya5@rpi.edu | catalyst_26 |
 | Dani Shiloh | UGSA  | *(tba)*  | *(tba)* | shilod@rpi.edu | neothesomething |
 
