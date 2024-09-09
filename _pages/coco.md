@@ -16,7 +16,7 @@ author_profile: true
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. James Dylan Rees | Instructor  | All (as needed)  | By appointment [(book here)](https://calendly.com/reesj3/coco-office-hours) | reesj3@rpi.edu  | j.dylanrees |
 | Alexander Borca‐Tasciuc  | TA  | 02 (12-1:50pm)  | *(tba)* | borcaa@rpi.edu  | alexborca |
-| Parisa Shiravani | TA  | Both (JEC   | *(tba)* | shirap@rpi.edu  | parisan_sh |
+| Parisa Shiravani | TA  | Both (JEC 6314 overflow lab)  | By appointment | shirap@rpi.edu  | parisan_sh |
 | Heshan Fernando | TA  | 01 (10-11:50am)  | By appointment | fernah@rpi.edu  | Heshan |
 | Diyanko Bhowmik | TA  | Both  | *(tba)* | bhowmd@rpi.edu  | diyanko |
 | Julian Tiana | UGSA  | 01 (10-11:50am)  | Wednesday 2-3pm, JEC 6309 | tianaj@rpi.edu | succulent2000 |
