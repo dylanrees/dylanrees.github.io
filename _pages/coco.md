@@ -22,7 +22,7 @@ author_profile: true
 | Julian Tiana | UGSA  | 02 (12-1:50am)  | Wednesday 2-3pm, JEC 6309 | tianaj@rpi.edu | succulent2000 |
 | Annabel Day | UGSA  | 02 (12-1:50pm)   | Monday 5-6pm, Flip-Flop (JEC 6307) | daya5@rpi.edu | catalyst_26 |
 | Dani Shiloh | UGSA  | Both | Friday 4-6pm, JEC 6309 | shilod@rpi.edu | neothesomething |
-| James Lev | USGA | *tba* | *tba* | levj@rpi.edu | gamese | 
+| James Lev | USGA | n/a | Mon/Thu 12-2 pm and Tue 4-6 pm,  Mercer X Lab | levj@rpi.edu | gamese | 
 
 During the office hour times specified above, the instructor and TAs will check and respond to messages in the Discord space.  They will also be available meetings in-person or on Discord as indicated above.
 
