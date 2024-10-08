@@ -21,3 +21,8 @@ redirect_from:
 | Dr. James Dylan Rees | Instructor  | By appointment [(book here)](https://calendly.com/reesj3/canos-office-hours) | reesj3@rpi.edu  |
 | James Onyejizu | TA | Wednesdays 2-4pm, Flip-Flop Lounge (JEC 6037) | onyejj@rpi.edu | 
 
+**Useful Links**
+
+* [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+* [SYSCALL functions available in MARS](https://web.archive.org/web/20240913140616/https://courses.missouristate.edu/KenVollmar/mars/Help/SyscallHelp.html)
+
