@@ -24,5 +24,5 @@ redirect_from:
 **Useful Links**
 
 * [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
-* [SYSCALL functions available in MARS](https://web.archive.org/web/20240913140616/https://courses.missouristate.edu/KenVollmar/mars/Help/SyscallHelp.html)
+* [SYSCALL functions available in MARS (credit to Ken Vollmar, Missouri State University)](https://dylanrees.github.io/MIPS_syscalls.html)
 
