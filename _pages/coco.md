@@ -8,7 +8,6 @@ author_profile: true
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTFTzIa789whA-4VxH_iYTBH6Iw6khO3fnN55vdWAnzqf9dgjiQDtYZ-QxDIZ5dfPL73l1Tzf_NRtVZ/pubhtml?widget=true&amp;headers=false"></iframe>
 
-
 * [Course Shared Folder](https://u.pcloud.link/publink/show?code=kZvtBO0ZLH4q6HXwWdktRzuunSGw6XPYlf57) - contains all lecture slides, pdfs of recorded lectures, homework and exam solutions, and other necessary files.
 * **Discord** - where course communication happens in between classes.  You should should be added to the WebEx space at the beginning of the semester.  If you can't access the space, email Prof. Rees.
 
