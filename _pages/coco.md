@@ -18,8 +18,8 @@ author_profile: true
 | Dr. James Dylan Rees | Instructor  | All (as needed)  | By appointment [(book here)](https://calendly.com/reesj3/coco-office-hours) | reesj3@rpi.edu  | j.dylanrees |
 | Parisa Shiravani | TA  | *(tba)*  | *(tba)* | shirap@rpi.edu  | parisan_sh |
 | Diyanko Bhowmik | TA  | *(tba)*  | *(tba)* | bhowmd@rpi.edu  | diyanko |
-| Husaifa Arif | TA  | *(tba)*  | *(tba)* | arih@rpi.edu  | diyanko |
-| Zidi Tao | TA  | *(tba)*  | *(tba)* | taoz2@rpi.edu  | diyanko |
+| Husaifa Arif | TA  | *(tba)*  | *(tba)* | arih@rpi.edu  | *(tba)* |
+| Zidi Tao | TA  | *(tba)*  | *(tba)* | taoz2@rpi.edu  | *(tba)* |
 
 
 During the office hour times specified above, the instructor and TAs will check and respond to messages in the Discord space.  They will also be available meetings in-person or on Discord as indicated above.
