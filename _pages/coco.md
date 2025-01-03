@@ -6,7 +6,7 @@ author_profile: true
 
 ## CoCO Fall 2024
 
-* [Course Schedule]
+* [Course Schedule](https://github.com/dylanrees/dylanrees.github.io/blob/3a5bade024f3711d0f64315aa23d8a51d75e8d81/CoCO%20Spring%202025%20Calendar%20-%20Sheet1.pdf)
 
 * [Course Shared Folder](https://u.pcloud.link/publink/show?code=kZvtBO0ZLH4q6HXwWdktRzuunSGw6XPYlf57) - contains all lecture slides, pdfs of recorded lectures, homework and exam solutions, and other necessary files.
 * **Discord** - where course communication happens in between classes.  You should should be added to the WebEx space at the beginning of the semester.  If you can't access the space, email Prof. Rees.
