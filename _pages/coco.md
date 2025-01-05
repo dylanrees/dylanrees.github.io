@@ -8,8 +8,8 @@ author_profile: true
 
 * [Course Schedule](https://docs.google.com/spreadsheets/d/12wq56331jazjz68A7vFsEeCxHH8CLa5r-3waZe3VIBA/edit?usp=sharing)
 
-* [Course Shared Folder](https://u.pcloud.link/publink/show?code=kZvtBO0ZLH4q6HXwWdktRzuunSGw6XPYlf57) - contains all lecture slides, pdfs of recorded lectures, homework and exam solutions, and other necessary files.
-* **Discord** - where course communication happens in between classes.  You should should be added to the WebEx space at the beginning of the semester.  If you can't access the space, email Prof. Rees.
+* [Course Shared Folder](https://u.pcloud.link/publink/show?code=kZaTLJ5Zu3yACT5KnNz6NPiDhMISwy4nIFQy) - contains all lecture slides, pdfs of recorded lectures, homework and exam solutions, and other necessary files.
+* **Discord** - where course communication happens in between classes.  You should receive and email about joining the Discord space at the beginning of the semester.  If you can't access the space, email Prof. Rees.
 
 **Teaching Staff**
 
