@@ -15,7 +15,7 @@ author_profile: true
 
 | Name  | Role | Lab Section | Office Hours | Email | Discord Name |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Dr. James Dylan Rees | Instructor  | All (as needed)  | By appointment [(book here)](https://calendly.com/reesj3/coco-office-hours) | reesj3@rpi.edu  | j.dylanrees |
+| Dr. James Dylan Rees | Instructor  | All (as needed)  | By appointment [(book here)](https://calendly.com/reesj3/class-help-meeting) | reesj3@rpi.edu  | j.dylanrees |
 | Parisa Shiravani | TA  | *(tba)*  | *(tba)* | shirap@rpi.edu  | parisan_sh |
 | Diyanko Bhowmik | TA  | *(tba)*  | *(tba)* | bhowmd@rpi.edu  | diyanko |
 | Husaifa Arif | TA  | *(tba)*  | *(tba)* | arih@rpi.edu  | *(tba)* |
