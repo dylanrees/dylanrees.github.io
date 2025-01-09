@@ -20,6 +20,8 @@ author_profile: true
 | Diyanko Bhowmik | TA  | *(tba)*  | *(tba)* | bhowmd@rpi.edu  | diyanko |
 | Husaifa Arif | TA  | *(tba)*  | *(tba)* | arih@rpi.edu  | *(tba)* |
 | Zidi Tao | TA  | *(tba)*  | *(tba)* | taoz2@rpi.edu  | *(tba)* |
+| Dani Shiloh | UGSA  | *(tba)*  | *(tba)* | shilod@rpi.edu  | *(tba)* |
+| Julian Tiana | UGSA  | *(tba)*  | *(tba)* | tianaj@rpi.edu  | *(tba)* |
 
 
 During the office hour times specified above, the instructor and TAs will check and respond to messages in the Discord space.  They will also be available meetings in-person or on Discord as indicated above.
