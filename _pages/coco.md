@@ -22,6 +22,9 @@ author_profile: true
 | Zidi Tao | TA  | *(tba)*  | *(tba)* | taoz2@rpi.edu  | *(tba)* |
 | Dani Shiloh | UGSA  | *(tba)*  | *(tba)* | shilod@rpi.edu  | *(tba)* |
 | Julian Tiana | UGSA  | *(tba)*  | *(tba)* | tianaj@rpi.edu  | *(tba)* |
+| Andrew Zheng | UGSA  | *(tba)*  | *(tba)* | zhenga5@rpi.edu  | *(tba)* |
+| Annabel Day | UGSA  | *(tba)*  | *(tba)* | daya5@rpi.edu  | *(tba)* |
+| Alex Xu | UGSA  | *(tba)*  | *(tba)* | xua3@rpi.edu  | *(tba)* |
 
 
 During the office hour times specified above, the instructor and TAs will check and respond to messages in the Discord space.  They will also be available meetings in-person or on Discord as indicated above.
