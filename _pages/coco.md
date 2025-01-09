@@ -17,7 +17,7 @@ author_profile: true
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. James Dylan Rees | Instructor  | All (as needed)  | By appointment [(book here)](https://calendly.com/reesj3/class-help-meeting) | reesj3@rpi.edu  | j.dylanrees |
 | Parisa Shiravani | TA  | 01 (12-1:50pm)  | *(tba)* | shirap@rpi.edu  | parisan_sh |
-| Diyanko Bhowmik | TA  | 02 (3-4:50pm  | *(tba)* | bhowmd@rpi.edu  | diyanko |
+| Diyanko Bhowmik | TA  | 02 (3-4:50pm)  | *(tba)* | bhowmd@rpi.edu  | diyanko |
 | Husaifa Arif | TA  | 03 (5-6:50pm) | *(tba)* | arih@rpi.edu  | *(tba)* |
 | Zidi Tao | TA  | *(tba)*  | *(tba)* | taoz2@rpi.edu  | *(tba)* |
 | Dani Shiloh | UGSA  | *(tba)*  | *(tba)* | shilod@rpi.edu  | *(tba)* |
