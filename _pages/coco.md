@@ -18,7 +18,7 @@ author_profile: true
 | Dr. James Dylan Rees | Instructor  | All (as needed)  | By appointment [(book here)](https://calendly.com/reesj3/class-help-meeting) | reesj3@rpi.edu  | j.dylanrees |
 | Parisa Shiravani | TA  | 01 (12-1:50pm)  | Thursday, 4-6pm, Flip-Flop Lounge (6037) | shirap@rpi.edu  | parisan_sh |
 | Diyanko Bhowmik | TA  | *(tba)*  | *(tba)* | bhowmd@rpi.edu  | diyanko |
-| Huzaifa Arif | TA  | 03 (5-6:50pm) | Friday, 4-6pm, Flip-Flop Lounge (JEC 6037) | arih@rpi.edu  | *(tba)* |
+| Huzaifa Arif | TA  | 03 (5-6:50pm) | Friday, 4-6pm, Flip-Flop Lounge (JEC 6037) | arih@rpi.edu  | huzaifa7496 |
 | Zidi Tao | TA  | 02 (3-4:50pm)  | Tuesday 2-4pm, Wednesday 10am-12pm, Flip-Flop Lounge (JEC 6037) | taoz2@rpi.edu  | *(tba)* |
 | Dani Shiloh | UGSA  | *(tba)*  | *(tba)* | shilod@rpi.edu  | *(tba)* |
 | Julian Tiana | UGSA  | *(tba)*  | *(tba)* | tianaj@rpi.edu  | *(tba)* |
