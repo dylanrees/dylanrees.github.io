@@ -22,7 +22,7 @@ author_profile: true
 | Zidi Tao | TA  | 01 (12-1:50pm)  | Tuesday 2-4pm, Wednesday 10am-12pm, Flip-Flop Lounge (JEC 6037) | taoz2@rpi.edu  | kiratau |
 | Dani Shiloh | UGSA  | 02 (3-4:50pm) | 2-3pm, Thursday, JEC 6309 | shilod@rpi.edu  | neothesomething |
 | Julian Tiana | UGSA  | 01 (12-1:50pm) | *(tba)* | tianaj@rpi.edu  | plant200000 |
-| Andrew Zheng | UGSA  | 02 (3-4:50pm) | *(tba)* | zhenga5@rpi.edu  | *(tba)* |
+| Andrew Zheng | UGSA  | 02 (3-4:50pm) | *(tba)* | zhenga5@rpi.edu  | azgn |
 | Annabel Day | UGSA  | 03 (6-7pm)  | Friday 2-4pm, Flip-Flop Lounge (JEC 6307) | daya5@rpi.edu  | annabelugsa_40556 |
 | Rosanna Lu | UGSA  | 01 (12-1:50pm), 03 (5-6pm)  | n/a | lur5@rpi.edu  | abcdefghijklmnorz |
 
