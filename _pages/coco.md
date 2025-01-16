@@ -8,7 +8,10 @@ author_profile: true
 
 * [Course Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vTFTzIa789whA-4VxH_iYTBH6Iw6khO3fnN55vdWAnzqf9dgjiQDtYZ-QxDIZ5dfPL73l1Tzf_NRtVZ/pubhtml)
 
+* [Office Hour Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vSiiO4s3FbqfMnOEvcSRq1a-mjzJKDNs0JpG1xRjV_4nPFHZaXp5Kxbnm33Yrb5JDKkfv03XeGfa510/pubhtml)
+
 * [Course Shared Folder](https://u.pcloud.link/publink/show?code=kZaTLJ5Zu3yACT5KnNz6NPiDhMISwy4nIFQy) - contains all lecture slides, pdfs of recorded lectures, homework and exam solutions, and other necessary files.
+
 * **Discord** - where course communication happens in between classes.  You should receive and email about joining the Discord space at the beginning of the semester.  If you can't access the space, email Prof. Rees.
 
 **Teaching Staff**
