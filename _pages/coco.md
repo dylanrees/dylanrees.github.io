@@ -23,9 +23,9 @@ author_profile: true
 | Diyanko Bhowmik | TA  | n/a | Monday 2-4pm, Thursday 12-2pm Flip-Flop Lounge (6037) | bhowmd@rpi.edu  | diyanko |
 | Huzaifa Arif | TA  | 03 (5-6:50pm) | Friday, 4-6pm, Flip-Flop Lounge (JEC 6037) | arih@rpi.edu  | huzaifa7496 |
 | Zidi Tao | TA  | 01 (12-1:50pm)  | Tuesday 2-4pm, Wednesday 10am-12pm, Flip-Flop Lounge (JEC 6037) | taoz2@rpi.edu  | kiratau |
-| Dani Shiloh | UGSA  | 02 (3-4:50pm) | 2-3pm, Tuesday, Flip-Flop Lounge JEC 6037 | shilod@rpi.edu  | neothesomething |
+| Dani Shiloh | UGSA  | 02 (3-4:50pm) | 5-6pm, Monday, Flip-Flop Lounge JEC 6037 | shilod@rpi.edu  | neothesomething |
 | Julian Tiana | UGSA  | 01 (12-1:50pm) | Wednesday, 2-3pm, JEC 6309 | tianaj@rpi.edu  | plant200000 |
-| Andrew Zheng | UGSA  | 02 (3-4:50pm) | *(tba)* | zhenga6@rpi.edu  | azgn |
+| Andrew Zheng | UGSA  | 02 (3-4:50pm) | Tuesday, 4-5pm, JEC 6037 | zhenga6@rpi.edu  | azgn |
 | Annabel Day | UGSA  | 03 (6-7pm)  | Friday 2-4pm, Flip-Flop Lounge (JEC 6307) | daya5@rpi.edu  | annabelugsa_40556 |
 | Rosanna Lu | UGSA  | 01 (12-1:50pm), 03 (5-6pm)  | n/a | lur5@rpi.edu  | abcdefghijklmnorz |
 
