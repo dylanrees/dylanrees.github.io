@@ -26,7 +26,7 @@ author_profile: true
 | Dani Shiloh | UGSA  | 02 (3-4:50pm) | 5-6pm, Monday, Flip-Flop Lounge JEC 6037 | shilod@rpi.edu  | neothesomething |
 | Julian Tiana | UGSA  | 01 (12-1:50pm) | Wednesday, 2-3pm, JEC 6309 | tianaj@rpi.edu  | plant200000 |
 | Andrew Zheng | UGSA  | 02 (3-4:50pm) | Tuesday, 4-5pm, JEC 6037 | zhenga6@rpi.edu  | azgn |
-| Annabel Day | UGSA  | 03 (6-7pm)  | Friday 2-4pm, Flip-Flop Lounge (JEC 6307) | daya5@rpi.edu  | annabelugsa_40556 |
+| Annabel Day | UGSA  | 03 (6-7pm)  | Friday 2-4pm, Flip-Flop Lounge (JEC 6307) | daya5@rpi.edu  | catalyst_26 |
 | Rosanna Lu | UGSA  | 01 (12-1:50pm), 03 (5-6pm)  | n/a | lur5@rpi.edu  | abcdefghijklmnorz |
 
 
