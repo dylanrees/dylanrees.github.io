@@ -5,4 +5,4 @@ permalink: /documents/
 author_profile: true
 ---
 
-* Here is my [cv](https://github.com/dylanrees/dylanrees.github.io/blob/master/files/CV.pdf).
+* Here is my [CV](https://dylanrees.github.io/files/CV.pdf)
