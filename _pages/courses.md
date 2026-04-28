@@ -23,3 +23,7 @@ An introductory digital design course covering Boolean algebra, combinational an
 * [Course Syllabus](/files/ECSE2610Syllabus.pdf)
 
 * [Lecture 1 (further explains course model)](/files/ECSE2610Lecture1.pdf)
+
+**Computer Architecture, Networks and Operating Systems (ECSE 2660)**
+
+A introductory course on computer architecture using the MIPS assembly language and building on ECSE 2610. 
