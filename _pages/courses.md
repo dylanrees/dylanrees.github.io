@@ -8,7 +8,7 @@ Below is some information on courses I have taught previously.
 
 ## Courses at Rensselaer Polytechnic Insititute
 
-** Fields and Waves (ECSE 2100) **
+**Fields and Waves (ECSE 2100)**
 
 An applied electromagnetism course that covered transmission line theory, Maxwell's Equations, and other related topics. I employed an interative standards-based method in which students were assessed based on mastery of defined Core Skills which they could re-test throughout the semester.
 
