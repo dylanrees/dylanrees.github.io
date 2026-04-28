@@ -27,3 +27,5 @@ An introductory digital design course covering Boolean algebra, combinational an
 **Computer Architecture, Networks and Operating Systems (ECSE 2660)**
 
 A introductory course on computer architecture using the MIPS assembly language and building on ECSE 2610. 
+
+* [Course Syllabus](/files/ECSE2660Syllabus.pdf)
