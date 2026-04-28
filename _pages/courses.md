@@ -14,7 +14,4 @@ An applied electromagnetism course that covered transmission line theory, Maxwel
 
 * [Course Syllabus](/files/ECSE2100Syllabus.pdf)
 
-* [Lecture 1 (further explains course model)]([https://docs.google.com/spreadsheets/d/e/2PACX-1vSiiO4s3FbqfMnOEvcSRq1a-mjzJKDNs0JpG1xRjV_4nPFHZaXp5Kxbnm33Yrb5JDKkfv03XeGfa510/pubhtml](https://github.com/dylanrees/dylanrees.github.io/blob/master/files/ECSE2100Lecture1.pdf))
-
-
-
+* [Lecture 1 (further explains course model)](/files/ECSE2100Lecture1.pdf)
