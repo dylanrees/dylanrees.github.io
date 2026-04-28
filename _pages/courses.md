@@ -31,3 +31,7 @@ A introductory course on computer architecture using the MIPS assembly language 
 * [Course Syllabus](/files/ECSE2660Syllabus.pdf)
 * [Lecture 13 (first of a 2-series introduction to x86)](/files/ECSE2660Lecture13.pdf)
 * [Lecture 14 (second part)](/files/ECSE2660Lecture14.pdf)
+* [Project 1](/files/ECSE2660Project1.pdf)
+* [Project 2](/files/ECSE2660Project2.pdf)
+* [Project 3](/files/ECSE2660Project3.pdf)
+* [Project 4](/files/ECSE2660Project4.pdf)
