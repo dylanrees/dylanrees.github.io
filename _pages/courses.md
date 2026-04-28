@@ -21,3 +21,5 @@ An applied electromagnetism course that covered transmission line theory, Maxwel
 An introductory digital design course covering Boolean algebra, combinational and sequential logic, finite state machines, and related topics. The course had a lab component in which I used an "Alpha and Omega Labs" model. Students could participate in the Alpha Lab track, which was more scripted, or the Omega Lab track, which employed open-ended design principles. This was my adaptation of a concept developed by [Dr. Shayla Sawyer](https://faculty.rpi.edu/shayla-sawyer) for her Introduction to Circuits class.
 
 * [Course Syllabus](/files/ECSE2610Syllabus.pdf)
+
+* [Lecture 1 (further explains course model)](/files/ECSE2610Lecture1.pdf)
