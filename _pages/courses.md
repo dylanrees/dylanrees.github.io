@@ -1,6 +1,6 @@
 ---
 permalink: /courses/
-title: "Course"
+title: "Courses"
 author_profile: true
 ---
 
