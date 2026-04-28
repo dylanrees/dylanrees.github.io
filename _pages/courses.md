@@ -29,3 +29,5 @@ An introductory digital design course covering Boolean algebra, combinational an
 A introductory course on computer architecture using the MIPS assembly language and building on ECSE 2610. 
 
 * [Course Syllabus](/files/ECSE2660Syllabus.pdf)
+* [Lecture 13 (first of a 2-series introduction to x86)](/files/ECSE2660Lecture13.pdf)
+* [Lecture 14 (second part)](/files/ECSE2660Lecture14.pdf)
